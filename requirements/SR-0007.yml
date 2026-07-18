@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "State obligations and decisions plainly, without coaxing"
+text: "State obligations and decisions plainly, for example \"You must\" and \"We will\"; do not coax or cajole."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Directness"
+  principle: UR-0004

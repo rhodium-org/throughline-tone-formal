@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Avoid slang, idiom and figurative expressions"
+text: "Avoid slang, idiom and figurative expressions; state points literally."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Vocabulary register"
+  principle: UR-0003

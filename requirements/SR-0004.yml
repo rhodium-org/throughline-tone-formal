@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Keep address impersonal; avoid the reader's first name in running text"
+text: "Do not use the reader's first name in running text; keep the address impersonal."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Address and greeting"
+  principle: UR-0002

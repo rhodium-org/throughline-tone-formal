@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Write auxiliaries and negatives in full, not contracted"
+text: "Write \"do not\", \"cannot\", \"we will\" and \"it is\" in full, never \"don't\", \"can't\" or \"we'll\"."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Contractions"
+  principle: UR-0001

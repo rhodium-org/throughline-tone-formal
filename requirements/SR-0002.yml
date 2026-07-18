@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Avoid colloquial elisions and clipped words"
+text: "Avoid colloquial elisions and clipped words such as \"info\" or \"til\"; use the full word."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Contractions"
+  principle: UR-0001

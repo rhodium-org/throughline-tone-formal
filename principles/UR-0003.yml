@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Choose neutral, professional vocabulary"
+text: "Avoid slang, idiom and emotive colour; state things plainly."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Formal register — Vocabulary register"

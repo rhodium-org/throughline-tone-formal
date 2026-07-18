@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Use full grammatical forms, not contractions"
+text: "Write auxiliary and negative forms out in full."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Formal register — Contractions"
