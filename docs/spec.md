@@ -18,7 +18,7 @@ It carries
 5
 <!-- tl:end --> principles and
 <!-- tl:count type == 'system_requirement' -->
-10
+11
 <!-- tl:end --> rules.
 
 ## Purpose
@@ -67,6 +67,7 @@ It carries
 |---|---|---|---|
 | SR-0003 | system_requirement | approved | Use a formal salutation, never a casual greeting |
 | SR-0004 | system_requirement | approved | Keep address impersonal; avoid the reader's first name in running text |
+| SR-0011 | system_requirement | approved | Close with a formal valediction, never a casual sign-off |
 <!-- tl:end -->
 
 ## 3. Choose neutral, professional vocabulary

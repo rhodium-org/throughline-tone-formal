@@ -1,0 +1,11 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: "Close with a formal valediction, never a casual sign-off"
+text: "Where the medium closes with a sign-off, use a formal valediction, for example \"Yours sincerely\" or \"Yours faithfully\", never \"Cheers\", \"Thanks\" or \"Best\". Whether a sign-off exists at all is a medium decision; this rule governs only its register."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Formal register — Address and greeting"
+  principle: UR-0002
