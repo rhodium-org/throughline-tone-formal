@@ -1,10 +1,11 @@
 uid: UR-0004
 type: user_requirement
-status: approved
-title: "State points with measured assertiveness"
-text: "Be plain and precise about obligations; hedge only for genuine uncertainty."
+status: proposed
+title: State points with measured assertiveness
+text: Be plain and precise about obligations; hedge only for genuine uncertainty.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Tone — Formal register — Directness"
+  source_ref: TBS Tone — Formal register — Directness
